@@ -1,9 +1,13 @@
 # 🔪 Warzone Cheat – Aimbot, ESP, Wallhack, Triggerbot, No Recoil, HWID Spoofer & Unlock All Tool
 
 Welcome to the **ultimate Warzone Cheat** repository on GitHub – your one-stop destination to explore how modern game enhancements are developed and implemented in Call of Duty: Warzone. This project is packed with powerful features such as **Aimbot**, **ESP**, **Wallhack**, **Triggerbot**, **No Recoil**, along with an advanced **HWID Spoofer** and a convenient **Unlock All Tool**.
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+
+> [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+
 > 🚀 Whether you're a developer, researcher, or enthusiast, this project reveals the underlying mechanisms of cheats in a high-security AAA title like Warzone.
-[![Warzone Cheat](https://github.com/ElusionCheats/warzone-cheat/blob/main/Warzone-Cheat-Menu.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+
+> [![Warzone Cheat](https://github.com/ElusionCheats/warzone-cheat/blob/main/Warzone-Cheat-Menu.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+
 ## 🌟 Main Features of Warzone Cheat
 
 ### 🎯 Aimbot
